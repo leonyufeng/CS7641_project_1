@@ -1,6 +1,5 @@
 # Project 1: Supervised Learning
-Author: Yu Feng  
-GID: yfeng40
+
 __________________________________________________________
 
 You can run this project by creating a conda environment and using Jupyter Notebook.  
