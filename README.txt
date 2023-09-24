@@ -3,6 +3,9 @@ Author: Yu Feng
 GID: yfeng40
 __________________________________________________________
 
+The project can be clone from https://github.com/leonyufeng/CS7641_project_1 
+By commend `git clone https://github.com/leonyufeng/CS7641_project_1`
+
 You can run this project by creating a conda environment and using Jupyter Notebook.  
 There are two notebooks `covid_death_classification.ipynb` and `credit_score_classification.ipynb` for COVID Death classification and Credit Score classification cases.
 
