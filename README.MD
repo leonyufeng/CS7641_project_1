@@ -45,6 +45,6 @@ There are two notebooks `covid_death_classification.ipynb` and `credit_score_cla
 You can simply use `run all` under menu `run` to run through each notebook. But be aware that, each notebook will run over 12 hours due to the size of the data. It will be especially slow for SVM and KNN for each case.
   
 ## 2.4 Run results
-The results can be find in notebook for each cases. The result plots can also be found under result_plots folder if uploading sucessfully. 
+The results can be find in notebook for each cases. The result plots can also be found under result_plots folder. 
 
 
